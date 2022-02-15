@@ -1,5 +1,6 @@
 {
    "package":[
-		"com.bird.flybouncing"
+	"com.bird.flybouncing",
+	"com.game.BirdFlyBouncing"
    ]
 }
