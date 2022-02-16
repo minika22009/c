@@ -2,7 +2,6 @@
    "bundle":"https://aloxo.xyz/webcnew/bundle-preview/",
    "appInfo": "https://resource.choang.vip/config/appInfo_web.json",
    "package":[
-	"com.bird.flybouncing1",
-	"com.game.BirdFlyBouncing"
+	"com.bird.flybouncing1"
    ]
 }
