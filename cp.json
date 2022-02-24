@@ -3,6 +3,7 @@
    "appInfo": "https://aloxo.xyz/webcnew/config/appInfo_web.json",
    "package":[
 	"com.bird.flybouncing",
-	"com.game.BirdFlyBouncing1"   
+	"com.game.BirdFlyBouncing1",
+	"com.bird.choangclub.sieuhay"
    ]
 }
