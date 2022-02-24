@@ -1,9 +1,3 @@
 {
-    "package":{
-        "com.choangvip.birdbouncing.v1": {"ver":1, "preview":0}
-     },
-    "bundle":"https://resource.choang.vip/bundle/",
-    "appInfo": "https://resource.choang.vip/config/appInfo_web.json",
-    "bundle_prevew":"https://resource.choang.vip/bundle-preview/",
-    "appInfo_preview": "https://aloxo.xyz/webcnew/config/appInfo_web.json",
+    "c":"ewogICAgInBhY2thZ2UiOnsKICAgICAgICAiY29tLmNob2FuZ3ZpcC5iaXJkYm91bmNpbmcudjEiOiB7InZlciI6MSwgInByZXZpZXciOjB9CiAgICAgfSwKICAgICJidW5kbGUiOiJodHRwczovL3Jlc291cmNlLmNob2FuZy52aXAvYnVuZGxlLyIsCiAgICAiYXBwSW5mbyI6ICJodHRwczovL3Jlc291cmNlLmNob2FuZy52aXAvY29uZmlnL2FwcEluZm9fd2ViLmpzb24iLAogICAgImJ1bmRsZV9wcmV2ZXciOiJodHRwczovL3Jlc291cmNlLmNob2FuZy52aXAvYnVuZGxlLXByZXZpZXcvIiwKICAgICJhcHBJbmZvX3ByZXZpZXciOiAiaHR0cHM6Ly9hbG94by54eXovd2ViY25ldy9jb25maWcvYXBwSW5mb193ZWIuanNvbiIsCn0="
 }
