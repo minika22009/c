@@ -1,1 +1,1 @@
-# CÁC BẢN MỚI GIỜ CHỈ SỬA Ở CF2
+# CÁC BẢN MỚI GIỜ CHỈ SỬA Ở CF2.JSON
